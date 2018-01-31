@@ -55,6 +55,7 @@
 - [example PWM](https://github.com/blundell/androidthings-pwm) - PWM (speaker/buzzer) clean code sample 
 - [example Speech-To-Text](https://github.com/Nilhcem/audiofun-androidthings/tree/pocketsphinx/) Speech-to-text with open source CMU Pocketsphinx recognizer.
 - [codelab button-Firebase](https://github.com/danybony/android-things-button-sample) Codelab starting from button input to Firebase sync
+- [Software PWM library](https://github.com/leinardi/androidthings-pio/tree/master/pio-softpwm) - This library provides a software PWM that can be used with any GPIO pin.
 - [Remote Storage](https://github.com/kevalpatel2106/remote-storage-android-things) - Create an FTP server using on raspberry pi and build your own wireless storage & backup solution for home.
 - [Smart Switch](https://github.com/kevalpatel2106/smartswitch) - Control your home switches remotely from phone using Android Things & firebase realtime database.
 - [Collision Detector](https://github.com/kevalpatel2106/collision-detector-android-things) - Get the distance of the object and alert using LED when object is too close using ultrasonic ranging sensor HC-SR04.
